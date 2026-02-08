@@ -8,7 +8,9 @@
 
 В папке Data хранятся следующие файлы:
 
+
    Файл selected_image_ids_2 (1): image_id отобранных в датасет изображений (txt)
+
 
    Файл selected_images_with_classes_2 (1):  image_id отобранных в датасет изображений, а также class_id (csv)
    
