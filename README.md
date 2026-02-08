@@ -29,7 +29,11 @@
    
    **I. Исходные файлы:**
      
-Файлы list_landmarks_celeba.txt, list_bbox_celeba.txt, list_attr_celeba.csv представляют собой исходные файлы для полного датасета CelebA. Файл  ist_attr_celeba.csv был скачан с kaggle CelebA - Original Wild Images. Файлы  list_landmarks_celeba.txt, list_bbox_celeba.txt скачаны с официального сайта авторов оригинального датасета CelebA.
+Файлы list_landmarks_celeba.txt, list_bbox_celeba.txt, list_attr_celeba.csv представляют собой исходные файлы для полного датасета CelebA. 
+
+Файл  ist_attr_celeba.csv был скачан с kaggle CelebA - Original Wild Images. 
+
+Файлы  list_landmarks_celeba.txt, list_bbox_celeba.txt скачаны с официального сайта авторов оригинального датасета CelebA.
         
 В паке "Датасет для второй части задания  (DLS_Проект_(3))" представлен файл identity_CelebA.txt, также взятый с сайта авторов полного датасета CelebA.
 
