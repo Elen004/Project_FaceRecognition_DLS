@@ -35,13 +35,13 @@
 
 В папке "Датасет_вариант 2" содержатся следующие файлы:
 
-selected_image_(2).zip - архив, содержащий 20 000 изображений, отобранных в датасет.
+   selected_image_(2).zip - архив, содержащий 20 000 изображений, отобранных в датасет.
 
-selected_image_ids_2.txt (1): image_id отобранных в датасет изображений.
+   selected_image_ids_2.txt (1): image_id отобранных в датасет изображений.
 
-selected_images_with_classes_2.csv (1):  image_id отобранных в датасет изображений, а также class_id.
+   selected_images_with_classes_2.csv (1):  image_id отобранных в датасет изображений, а также class_id.
 
-aligned_faces_full_dataset.zip - архив, содержащий выровненые и обрезаные изображения, полученные после выполнения задания №1 Face Alignment.
+   aligned_faces_full_dataset.zip - архив, содержащий выровненые и обрезаные изображения, полученные после выполнения задания №1 Face Alignment.
 
 
    III. Ноутбуки с выполненными заданиями:
