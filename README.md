@@ -11,20 +11,25 @@
    Файл selected_image_ids_2 (1): image_id отобранных в датасет изображений (txt)
 
    Файл selected_images_with_classes_2 (1):  image_id отобранных в датасет изображений, а также class_id (csv)
+   
 
 
 Все данные проекта и пайплайны (в виде ноутбуков Google colab) также хранятся в облачном хранилище на гугл диске. На гугл диске представлены более полные данные о проекте Face Recognition.
 Ссылка на гугл диск: https://drive.google.com/drive/folders/1dyQClmi3j9a177Rqf8Mm4DXfBRYP6ONI?usp=sharing
 
+
+
 Описание проекта на гугл диске:
 
 Все данные, пайплайны, а также сохранённые моделии хранятся в папке "Итоговый проект". 
+
    
    I. Исходные файлы:
      
 Файлы list_landmarks_celeba.txt, list_bbox_celeba.txt, list_attr_celeba.csv представляют собой исходные файлы для полного датасета CelebA. Файл  ist_attr_celeba.csv был скачан с kaggle CelebA - Original Wild Images. Файлы  list_landmarks_celeba.txt, list_bbox_celeba.txt скачаны с официального сайта авторов оригинального датасета CelebA.
         
 В паке "Датасет для второй части задания  (DLS_Проект_(3))" представлен файл identity_CelebA.txt, также взятый с сайта авторов полного датасета CelebA.
+
         
    II. Изображения отобранные в датасет:
 
@@ -38,9 +43,11 @@ selected_images_with_classes_2.csv (1):  image_id отобранных в дат
 
 aligned_faces_full_dataset.zip - архив, содержащий выровненые и обрезаные изображения, полученные после выполнения задания №1 Face Alignment.
 
+
    III. Ноутбуки с выполненными заданиями:
       
 В папке "Пайплайны" представлены ноутбуки Part1_Stacked_Hourglass_Network.ipnb, Part_2_Модель_AC_loss_ArcFace.ipnb (задание №1 Face Alignment, (задание №2 CE loss и ArcFace).
+
 
    IV. Модели:
 
